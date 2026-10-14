@@ -58,4 +58,4 @@ python kmeans_student_segmentation.py
 The clusters show similarities in the selected features. They should not be treated as definitive measures of student ability.
 
 ## Academic Project
-PBL 3 — Programming for Data Science
+PBL — Python for Data Science
